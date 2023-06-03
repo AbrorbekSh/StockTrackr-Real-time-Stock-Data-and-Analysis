@@ -1,4 +1,4 @@
-# Stocks-App-2.0
+# StockTrackr: Real-time Stock Data and Analysis
 <img width="467" alt="Снимок экрана 2022-08-17 в 12 56 35" src="https://user-images.githubusercontent.com/107983374/185055200-97c405dc-5f56-4221-9409-0edc3110f88e.png">
 <img width="467" alt="Снимок экрана 2022-08-17 в 12 56 56" src="https://user-images.githubusercontent.com/107983374/185055207-a5726d4b-71fb-4984-a07f-a6b58c7669ad.png">
 <img width="467" alt="Снимок экрана 2022-08-17 в 12 57 13" src="https://user-images.githubusercontent.com/107983374/185055213-05025e7c-d2d7-430d-89de-99562187e0b6.png">
